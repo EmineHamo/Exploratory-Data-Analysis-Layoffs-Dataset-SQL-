@@ -88,18 +88,6 @@ The table used for analysis is `cleaned_layoffs`, containing the following field
 ---
 
 ## 🛠️ Tools Used
-- SQL (Microsoft SQL Server / MySQL syntax)
+- SQL (Microsoft SQL Server)
 - SQL functions: `GROUP BY`, `MAX()`, `COUNT(DISTINCT)`, `YEAR()`, `DENSE_RANK()`, `CTE`
 
----
-
-## 📁 Files
-- `cleaned_layoffs_eda.sql` – SQL queries used for EDA
-- `cleaned_layoffs.csv` *(optional)* – Cleaned dataset used in the analysis
-
----
-
-## 👩‍💻 Author
-Emine Hamo Mael  
-[GitHub Profile](https://github.com/yourusername)  
-aminahamomayel@gmail.com
